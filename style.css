@@ -1,1 +1,5 @@
-style
+body {
+    background-color: darkgreen;
+    color: #000;
+}
+header {background-color: darkred;}
